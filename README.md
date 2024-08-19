@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @AAldiyar
+- 👋 Hi, I’m Aldiyar Aidarov
 - 👨‍💻 Data Engineer
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aldiyar-aidarov/), [Telegram](https://t.me/chepubelki)
 
