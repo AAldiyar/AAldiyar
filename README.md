@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AAldiyar
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
+- 👨‍💻 Data Engineer
 - 📫 How to reach me [LinkedIn](https://www.linkedin.com/in/aldiyar-aidarov/), [Telegram](https://t.me/chepubelki)
 
 
